@@ -156,7 +156,7 @@ function allCarsList() {
   publishCars();
 }
 
-function dyzelCarsList() {
+function dieselCarsList() {
   publishCars(KuroTipas.Dyzelinas);
 }
 
